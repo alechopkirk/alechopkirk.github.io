@@ -225,7 +225,7 @@ div#educationtitle {
   display: block;
   width: 100%;
   height: 10vw;
-  background-image: url("images/EducationPhoto.JPG");
+  background-image: url("images/EducationPhoto.jpg");
   box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.7);
   background-repeat: no-repeat;
   background-attachment: fixed;
